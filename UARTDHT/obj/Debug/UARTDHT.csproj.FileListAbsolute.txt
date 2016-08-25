@@ -1,0 +1,8 @@
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT\UARTDHT\bin\Debug\UARTDHT.exe.config
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT\UARTDHT\bin\Debug\UARTDHT.exe
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT\UARTDHT\bin\Debug\UARTDHT.pdb
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT\UARTDHT\obj\Debug\UARTDHT.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT\UARTDHT\obj\Debug\UARTDHT.Form1.resources
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT\UARTDHT\obj\Debug\UARTDHT.csproj.GenerateResource.Cache
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT\UARTDHT\obj\Debug\UARTDHT.exe
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT\UARTDHT\obj\Debug\UARTDHT.pdb
